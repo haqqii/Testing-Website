@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_hehegmail.com</name>
+   <tag></tag>
+   <elementGuidId>57ca7fd6-ad4f-41b9-991d-2dfff3ed4e2b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown-toggle.setting-opt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//header[@id='mp_main_header']/div/div[2]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>703e38f1-9342-4065-9113-37727760f16e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-toggle</name>
+      <type>Main</type>
+      <value>dropdown</value>
+      <webElementGuid>a651f9ac-f492-434c-ba10-0af29e45e9b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-toggle setting-opt</value>
+      <webElementGuid>f9a85727-9cf5-47a4-997b-36ff24885336</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>739cb1db-e743-4cfa-aeed-4ae50de659c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                      
+                       hehe@gmail.com 
+                    </value>
+      <webElementGuid>c7d6d336-6cee-4266-985f-e3d74a758082</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mp_main_header&quot;)/div[@class=&quot;navbar-header&quot;]/div[@class=&quot;top-nav&quot;]/ul[@class=&quot;nav pull-right top-menu&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;dropdown-toggle setting-opt&quot;]</value>
+      <webElementGuid>c6dd6036-5156-402a-beea-f1a91bf0ec98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//header[@id='mp_main_header']/div/div[2]/ul/li/a</value>
+      <webElementGuid>1790677f-2584-4277-ba7b-710f75451542</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='please wait'])[1]/following::a[2]</value>
+      <webElementGuid>ce608068-54a9-474f-91b6-945b67ad4737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome,'])[1]/preceding::a[1]</value>
+      <webElementGuid>7dcd7770-ef4a-4bff-a9bf-8441b184cd9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '#')]</value>
+      <webElementGuid>ab54c8a1-c750-47c9-9685-5b067c96dc44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/a</value>
+      <webElementGuid>b69f467e-1d35-4fd9-a111-c97ef5ced153</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = '
+                      
+                       hehe@gmail.com 
+                    ' or . = '
+                      
+                       hehe@gmail.com 
+                    ')]</value>
+      <webElementGuid>524515dc-9ce7-4180-9efa-1de7bf0f107f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
